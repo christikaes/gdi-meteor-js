@@ -1,12 +1,12 @@
 > Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Then, delete this banner and add the specifics about your class below.
 
-# Add Your Course Title Here
+# Meteor JS
 
 Slides and materials are hosted at [http://example.com/](http://example.com/).
 
 ## Course description
 
-Use this space for a short description of your course. We recommend using the description from your meetup event.
+Meteor JS is a full stack javascript app platform. In this course you will learn how to build and deploy a multiplatform app using MeteorJS. All code will be done in javascript, css and html. Some basic web development knowledge is reccomended.
 
 **Cost:** 
 
@@ -18,8 +18,6 @@ A limited number of scholarships are available for those with a financial hardsh
 
 
 ### Prerequisites:
-
-List any prerequisites for this class, including any previous classes or the equivalent self-study or real-world skills.
 
 You should have:
 
@@ -43,7 +41,17 @@ You should have:
 
 ### Topics covered:
 
- - The topics you plan to cover
- - Written in list form
- - Here's another one
+This class is heavily based on the tutorials Meteor provides at: https://www.meteor.com/tutorials/blaze/creating-an-app
 
+ - Creating an app
+ - Templates
+ - Collections (Database)R
+ - Forms and events
+ - Update and remove
+ - Deployment
+ - Running on Mobile
+ - Temoprary UI state
+ - Adding user accounts
+ - Security with methods
+ - Publish and Subscribe
+ - Next steps
