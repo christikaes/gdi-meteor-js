@@ -2,7 +2,7 @@
 
 # Meteor JS
 
-Slides and materials are hosted at [http://example.com/](http://example.com/).
+Slides and materials are hosted at [http://christinakayastha.github.io/gdi-meteor-js/](http://christinakayastha.github.io/gdi-meteor-js/).
 
 ## Course description
 
