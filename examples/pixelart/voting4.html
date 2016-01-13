@@ -1,0 +1,29 @@
+<head>
+  <title>voting4</title>
+</head>
+
+<body>
+  <h1>Welcome to Meteor!</h1>
+
+  {{> hello}}
+
+  {{> draw}}
+
+  {{> loginButtons}}
+  <div class="comment-section">
+    {{> commentsBox id="1"}}
+</div>
+</body>
+
+<template name="hello">
+  <button>Click Me</button>
+  <p>You've pressed the button {{counter}} times.</p>
+</template>
+
+<template name="draw">
+  <div class="drawing">
+  	{{#each square}}
+  		<div class="square" style="background-color: {{this}}"></div>
+  	{{/each}}
+  </div>
+</template>

@@ -1,0 +1,16 @@
+/* CSS declarations go here */
+.drawing{
+	height: 500px;
+	width:500px;
+}
+.square{
+	float:left;
+	width:20px;
+	height: 20px;
+}
+
+body {
+	width: 900px;
+	margin: auto;
+	text-align: center;
+}

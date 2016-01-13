@@ -1,0 +1,17 @@
+
+
+1 -- Install Meteor
+2 -- Let's make a pixel art designer
+-------> blaze templating
+-------> session variables
+-------> mongo database
+3 -- Saving the pixel designer in the url
+4 -- Let's make a login
+-------> meteor add accounts-ui accounts-password 
+5 -- Atmosphere, adding comments
+-------> meteor add arkham:comments-ui
+-------> meteor add tws:bootstrap
+-------> meteor add ian:accounts-ui-bootstrap-3
+-------> meteor remove accounts-ui
+6 -- Deploy
+7 -- Mobile
